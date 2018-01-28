@@ -133,6 +133,8 @@ com.android.stk/com.android.stk.StkMain
 com.android.stk/com.android.stk.StkMenuActivity
 com.android.systemui/com.xiaomi.push.service.XMPushService
 com.android.thememanager/com.android.thememanager.push.ThemePushReceiver
+com.android.thememanager/com.xiaomi.mipush.sdk.MessageHandleService
+com.android.thememanager/com.xiaomi.mipush.sdk.PushMessageHandler
 com.android.thememanager/com.xiaomi.push.service.XMPushService
 com.android.thememanager/com.xiaomi.push.service.receivers.NetworkStatusReceiver
 com.android.thememanager/com.xiaomi.push.service.receivers.PingReceiver
@@ -358,8 +360,6 @@ com.google.android.gms/com.google.android.gms.backup.component.D2dTransportServi
 com.google.android.gms/com.google.android.gms.backup.component.EmmRestoreFlowActivity
 com.google.android.gms/com.google.android.gms.backup.component.RestoreSessionV0Service
 com.google.android.gms/com.google.android.gms.backup.component.UsbDeviceAttachedActivity
-com.google.android.gms/com.google.android.gms.car.CarHomeActivity1
-com.google.android.gms/com.google.android.gms.car.CarHomeActivity2
 com.google.android.gms/com.google.android.gms.checkin.CheckinServiceActiveReceiver
 com.google.android.gms/com.google.android.gms.feedback.LegacyBugReportService
 com.google.android.gms/com.google.android.gms.games.chimera.GamesAndroidServiceProxy
@@ -371,8 +371,6 @@ com.google.android.gms/com.google.android.gms.games.chimera.GamesSyncServiceNoti
 com.google.android.gms/com.google.android.gms.games.chimera.GamesUploadServiceProxy
 com.google.android.gms/com.google.android.gms.games.chimera.RoomAndroidServiceProxy
 com.google.android.gms/com.google.android.gms.games.chimera.SnapshotEventServiceProxy
-com.google.android.gms/com.google.android.gms.mdm.receivers.AccountsChangedReceiver
-com.google.android.gms/com.google.android.gms.mdm.receivers.ConnectivityReceiver
 com.google.android.gms/com.google.android.gms.netrec.scoring.receiver.ScoreNetworksBroadcastReceiver
 com.google.android.gms/com.google.android.gms.ocr.CardCaptureActivity
 com.google.android.gms/com.google.android.gms.ocr.GiftCardOcrActivity
@@ -573,9 +571,12 @@ com.miui.securityadd/com.xiaomi.mipush.sdk.MessageHandleService
 com.miui.securityadd/com.xiaomi.mipush.sdk.PushMessageHandler
 com.miui.systemAdSolution/com.xiaomi.ad.internal.mipush.MiPushMessageReceiver
 com.miui.systemAdSolution/com.xiaomi.ad.server.AdReceiver
+com.miui.systemAdSolution/com.xiaomi.mipush.sdk.MessageHandleService
+com.miui.systemAdSolution/com.xiaomi.push.service.XMJobService
 com.miui.systemAdSolution/com.xiaomi.push.service.XMPushService
 com.miui.systemAdSolution/com.xiaomi.push.service.receivers.PingReceiver
 com.miui.tsmclient/com.xiaomi.mipush.sdk.MessageHandleService
+com.miui.tsmclient/com.xiaomi.mipush.sdk.PushMessageHandler
 com.miui.tsmclient/com.xiaomi.push.service.XMJobService
 com.miui.video.plugin/com.miui.video.plugin.push.MediaPushMessageReceiver
 com.miui.video.plugin/com.xiaomi.push.service.XMPushService
@@ -935,6 +936,7 @@ com.xiaomi.smarthome/com.xiaomi.push.service.XMPushService
 com.xiaomi.smarthome/com.xiaomi.push.service.receivers.PingReceiver
 com.xiaomi.smarthome/com.xiaomi.smarthome.framework.push.PushReceiver
 com.xiaomi.vipaccount/com.xiaomi.mipush.sdk.MessageHandleService
+com.xiaomi.vipaccount/com.xiaomi.mipush.sdk.PushMessageHandler
 com.xiaomi.vipaccount/com.xiaomi.push.service.XMJobService
 com.xiaomi.xmsf/com.xiaomi.mipush.sdk.MessageHandleService
 com.xiaomi.xmsf/com.xiaomi.xmsf.push.service.trace.MiPushRelayTraceService
