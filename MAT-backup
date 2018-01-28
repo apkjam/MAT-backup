@@ -331,10 +331,21 @@ com.google.android.apps.plus/com.google.android.apps.photos.service.PhotosServic
 com.google.android.apps.plus/com.google.android.apps.plus.phone.HostPhotoViewIntentActivityAlias
 com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity
 com.google.android.apps.plus/com.google.android.apps.plus.phone.VideoViewActivityAlias
+com.google.android.apps.plus/com.google.android.apps.plus.service.EsService
+com.google.android.apps.plus/com.google.android.apps.plus.service.EsSyncAdapterService
+com.google.android.apps.plus/com.google.android.apps.plus.service.EsSyncAdapterService$MandatorySyncJobService
+com.google.android.apps.plus/com.google.android.apps.plus.service.EsSyncAdapterService$MandatorySyncService
 com.google.android.apps.plus/com.google.android.apps.plus.service.PhotosAppTransitionMonitor
+com.google.android.apps.plus/com.google.android.apps.plus.widget.EsWidgetService
+com.google.android.apps.plus/com.google.android.gms.analytics.CampaignTrackingService
+com.google.android.apps.plus/com.google.android.libraries.social.async.BackgroundTaskJobService
+com.google.android.apps.plus/com.google.android.libraries.social.async.BackgroundTaskService
+com.google.android.apps.plus/com.google.android.libraries.social.autobackup.AutoBackupSyncService
+com.google.android.apps.plus/com.google.android.libraries.social.autobackup.FingerprintScannerIntentService
 com.google.android.apps.plus/com.google.android.libraries.social.cropper.standaloneactivity.StandaloneCropActivityAlias
 com.google.android.apps.plus/com.google.android.libraries.social.ingest.IngestActivity
 com.google.android.apps.plus/com.google.android.libraries.social.ingest.IngestService
+com.google.android.apps.plus/com.google.android.libraries.social.mediamonitor.BackgroundThreadNotifierIntentService
 com.google.android.apps.plus/com.google.android.libraries.social.networkqueue.impl.ConnectivityReceiver
 com.google.android.apps.plus/com.google.android.libraries.social.notifications.scheduled.GunsScheduledTaskService
 com.google.android.apps.plus/com.google.apps.tiktok.delayedtasks.constraints.oncharger.OnChargerConstraintReceiver_Receiver
@@ -346,6 +357,7 @@ com.google.android.calendar/com.google.android.calendar.SyncUpgradeReceiver
 com.google.android.gms/com.google.android.gms.ads.identifier.service.AdvertisingIdNotificationService
 com.google.android.gms/com.google.android.gms.ads.identifier.service.AdvertisingIdService
 com.google.android.gms/com.google.android.gms.auth.account.authenticator.WorkAccountAuthenticatorService
+com.google.android.gms/com.google.android.gms.auth.account.be.channelid.ChannelBindingStateIntentService
 com.google.android.gms/com.google.android.gms.auth.uiflows.addaccount.DmDownloadInstallActivity
 com.google.android.gms/com.google.android.gms.autofill.service.AutofillService
 com.google.android.gms/com.google.android.gms.autofill.ui.AutofillActivity
@@ -371,6 +383,7 @@ com.google.android.gms/com.google.android.gms.games.chimera.GamesSyncServiceNoti
 com.google.android.gms/com.google.android.gms.games.chimera.GamesUploadServiceProxy
 com.google.android.gms/com.google.android.gms.games.chimera.RoomAndroidServiceProxy
 com.google.android.gms/com.google.android.gms.games.chimera.SnapshotEventServiceProxy
+com.google.android.gms/com.google.android.gms.mdm.receivers.AccountsChangedReceiver
 com.google.android.gms/com.google.android.gms.netrec.scoring.receiver.ScoreNetworksBroadcastReceiver
 com.google.android.gms/com.google.android.gms.ocr.CardCaptureActivity
 com.google.android.gms/com.google.android.gms.ocr.GiftCardOcrActivity
@@ -402,6 +415,7 @@ com.google.android.gsf/com.google.android.gsf.update.SystemUpdateActivity
 com.google.android.gsf/com.google.android.gsf.update.SystemUpdateService
 com.google.android.gsf/com.google.android.gsf.update.SystemUpdateService$Receiver
 com.google.android.gsf/com.google.android.gsf.update.SystemUpdateService$SecretCodeReceiver
+com.google.android.instantapps.supervisor/com.google.android.instantapps.supervisor.DebugService
 com.google.android.instantapps.supervisor/com.google.android.instantapps.supervisor.SendToBrowserActivity
 com.google.android.instantapps.supervisor/com.google.android.instantapps.supervisor.SyncFlagsWakefulReceiver
 com.gotokeep.keep/com.gotokeep.keep.broadcast.MiPushReceiver
@@ -479,6 +493,7 @@ com.luojilab.player/com.huawei.hms.support.api.push.PushEventReceiver
 com.luojilab.player/com.luojilab.netsupport.push.platform.huawei.HWPushMsgReceiver
 com.luojilab.player/com.xiaomi.push.service.XMPushService
 com.luojilab.player/io.rong.push.PushReceiver
+com.madgag.agit/com.madgag.agit.sync.AgitSyncAdapterService
 com.medium.reader/com.medium.android.common.net.NetworkChangeReceiver
 com.mfashiongallery.emag/com.mfashiongallery.emag.ext_interface.UserPresentReceiver
 com.mfashiongallery.emag/com.mfashiongallery.emag.push.MiFGPushReceiver
