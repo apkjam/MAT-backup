@@ -420,6 +420,7 @@ com.netease.cloudmusic/com.netease.cloudmusic.module.push.receiver.MiPushMessage
 com.netease.cloudmusic/com.xiaomi.push.service.XMPushService
 com.netease.cloudmusic/com.xiaomi.push.service.receivers.PingReceiver
 com.oasisfeng.greenify.pro/com.oasisfeng.greenify.pro.PilotActivity
+com.oup.elt.phonicsworld/com.twitter.sdk.android.tweetcomposer.TweetUploadService
 com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.instorepay.service.NfcPaymentService
 com.qianyan.eudic/io.rong.push.PushReceiver
 com.qingsongchou.social/cn.jpush.android.service.PushReceiver
@@ -436,6 +437,7 @@ com.quvideo.xiaoying/io.rong.push.PushReceiver
 com.recorder.snipback/com.google.android.gms.ads.AdActivity
 com.recorder.snipback/com.google.android.gms.ads.purchase.InAppPurchaseActivity
 com.rjfittime.app/com.igexin.sdk.PushReceiver
+com.rovio.angrybirds/com.rovio.fusion.payment.google.BillingService
 com.ruguoapp.jike/com.huawei.hms.support.api.push.PushEventReceiver
 com.ruguoapp.jike/com.ruguoapp.jike.PureBackground
 com.ruguoapp.jike/com.ruguoapp.jike.push.hw.HwPushReceiver
@@ -517,12 +519,6 @@ com.taobao.idlefish/org.android.agoo.huawei.HuaWeiReceiver
 com.taobao.movie.android/com.taobao.accs.EventReceiver
 com.taobao.movie.android/org.android.agoo.huawei.HuaWeiReceiver
 com.taobao.movie.android/org.android.agoo.xiaomi.MiPushBroadcastReceiver
-com.taobao.qianniu/com.alibaba.hwpush.HWPushReceiver
-com.taobao.qianniu/com.alibaba.mipush.MiPushMessageReceiver
-com.taobao.qianniu/com.huawei.android.pushagent.PushEventReceiver
-com.taobao.qianniu/com.taobao.qianniu.receiver.RebirthReceiver
-com.taobao.qianniu/com.taobao.qianniu.receiver.mipush.MiMessageReceiver
-com.taobao.qianniu/com.xiaomi.push.service.receivers.PingReceiver
 com.taobao.taobao/com.taobao.accs.EventReceiver
 com.taobao.taobao/org.android.agoo.huawei.HuaWeiReceiver
 com.taobao.taobao/org.android.agoo.xiaomi.MiPushBroadcastReceiver
