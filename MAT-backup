@@ -257,6 +257,7 @@ com.fuiou.mgr/com.baidu.location.f
 com.fuiou.mgr/com.fuiou.mgr.push.PushMessageReceiver
 com.futurefleet.pandabus.ui.dalian/cn.jpush.android.service.PushReceiver
 com.futurefleet.pandabus.ui.dalian/com.futurefleet.pandabus2.broadcastReceiver.ConnectivityChangedReceiver
+com.google.android.GoogleCamera/com.google.android.apps.camera.legacy.app.silentfeedback.SilentFeedbackService
 com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.widget.LargeWidgetProvider
 com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.widget.MediumWidgetProvider
 com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.widget.SmallWidgetProvider
