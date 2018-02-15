@@ -13,6 +13,7 @@ cn.com.cmbc.newmbank/com.igexin.sdk.PushReceiver
 cn.com.langeasy.LangEasyLexis/com.taobao.accs.EventReceiver
 cn.mdict/cn.mdict.services.ClipboardMonitorStarter
 com.Qunar/com.mqunar.spider.GPushReceiver
+com.Qunar/com.xiaomi.push.service.XMPushService
 com.Qunar/com.xiaomi.push.service.receivers.PingReceiver
 com.accuweather.paid.android/com.accuweather.app.RateAppDialog
 com.accuweather.paid.android/com.accuweather.app.UpgradeDialog
@@ -133,6 +134,7 @@ com.baojiazhijia.qichebaojia/io.rong.push.PushService
 com.baojiazhijia.qichebaojia/io.rong.push.core.MessageHandleService
 com.baojiazhijia.qichebaojia/io.rong.push.core.PushRegistrationService
 com.bdatu.ngphone/com.bdatu.ngphone.DemoMessageReceiver
+com.bdatu.ngphone/com.xiaomi.push.service.XMPushService
 com.bdatu.ngphone/com.xiaomi.push.service.receivers.PingReceiver
 com.cainiao.wireless/com.taobao.accs.EventReceiver
 com.cainiao.wireless/org.android.agoo.huawei.HuaWeiReceiver
@@ -325,6 +327,7 @@ com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.cservice.PushBootBroadc
 com.greenpoint.android.mc10086.activity/com.xiaomi.push.service.XMPushService
 com.handsgo.jiakao.android/cn.mucang.android.push.AliPushMessageReceiver
 com.handsgo.jiakao.android/cn.mucang.android.push.MucangPushReceiver
+com.handsgo.jiakao.android/cn.mucang.android.push.MucangPushReceiver
 com.handsgo.jiakao.android/com.xiaomi.push.service.receivers.PingReceiver
 com.handsgo.jiakao.android/io.rong.push.PushReceiver
 com.heartide.xinchao.stressandroid/com.heartide.xinchao.stressandroid.receiver.MiPushMessageReceiver
@@ -346,7 +349,6 @@ com.instagram.android/com.instagram.bugreporter.BugReporterService
 com.instagram.android/com.instagram.common.analytics.AnalyticsUploadAlarmReceiver
 com.instagram.android/com.instagram.debug.memorydump.MemoryDumpUploadService
 com.instagram.android/com.instagram.pendingmedia.service.uploadretrypolicy.ConnectivityChangeReceiver
-com.instagram.android/com.instagram.share.common.StoryShareHandlerActivity
 com.ishowedu.peiyin/cn.jpush.android.service.PushReceiver
 com.ishowedu.peiyin/com.ishowedu.peiyin.services.BootUpReceiver
 com.ishowedu.peiyin/com.ishowedu.peiyin.thirdparty.XiaoMiPushReceiver
@@ -390,6 +392,7 @@ com.madgag.agit/com.madgag.agit.sync.AgitSyncAdapterService
 com.medium.reader/com.medium.android.common.net.NetworkChangeReceiver
 com.mfashiongallery.emag/com.mfashiongallery.emag.ext_interface.UserPresentReceiver
 com.mfashiongallery.emag/com.mfashiongallery.emag.push.MiFGPushReceiver
+com.mfashiongallery.emag/com.xiaomi.push.service.XMPushService
 com.mfashiongallery.emag/com.xiaomi.push.service.receivers.NetworkStatusReceiver
 com.mfashiongallery.emag/com.xiaomi.push.service.receivers.PingReceiver
 com.mi.liveassistant/com.mi.milink.sdk.receiver.AlarmReceiver
@@ -397,6 +400,7 @@ com.mi.liveassistant/com.mi.milink.sdk.receiver.NetworkReceiver
 com.mi.liveassistant/com.wali.live.receiver.NetworkReceiver
 com.mi.misupport/com.mi.misupport.receiver.WIFIReceiver
 com.microsoft.cortana/com.microsoft.bing.dss.servicelib.client.DssServiceReceiver
+com.microsoft.skydrive/com.microsoft.skydrive.widget.OneDriveWidgetProvider
 com.microsoft.todos/com.microsoft.todos.sync.AlarmSyncBootReceiver
 com.miui.miuibbs/com.xiaomi.mipush.sdk.MessageHandleService
 com.miui.miuibbs/com.xiaomi.mipush.sdk.PushMessageHandler
@@ -421,7 +425,6 @@ com.netease.cloudmusic/com.netease.cloudmusic.module.push.receiver.MiPushMessage
 com.netease.cloudmusic/com.xiaomi.push.service.XMPushService
 com.netease.cloudmusic/com.xiaomi.push.service.receivers.PingReceiver
 com.oasisfeng.greenify.pro/com.oasisfeng.greenify.pro.PilotActivity
-com.oup.elt.phonicsworld/com.twitter.sdk.android.tweetcomposer.TweetUploadService
 com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.instorepay.service.NfcPaymentService
 com.qianyan.eudic/io.rong.push.PushReceiver
 com.qingsongchou.social/cn.jpush.android.service.PushReceiver
@@ -732,6 +735,7 @@ com.yibasan.lizhifm/com.yibasan.lizhifm.sdk.huaweipush.HuaweiPushReceiver
 com.yibasan.lizhifm/com.yibasan.lizhifm.sdk.xiaomipush.XiaomiMessageReceiver
 com.yibasan.lizhifm/io.rong.push.PushReceiver
 com.yidian.xiaomi/com.taobao.accs.EventReceiver
+com.yidian.xiaomi/com.xiaomi.push.service.XMPushService
 com.yidian.xiaomi/com.xiaomi.push.service.receivers.PingReceiver
 com.yidian.xiaomi/com.yidian.news.push.YdPushMessageReceiver
 com.yidian.xiaomi/com.yidian.news.util.fetchnews.WakeReceiver
