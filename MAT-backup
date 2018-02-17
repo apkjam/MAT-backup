@@ -75,8 +75,8 @@ com.amazon.kindlefc/com.igexin.sdk.PushReceiver
 com.amazon.mShop.android.shopping/com.amazon.identity.auth.accounts.SessionUserChangedToAccountForPackageChangedAdpater
 com.amazon.mShop.android.shopping/com.amazon.mShop.httpUrlDeepLink.HttpUrlDeepLinkingActivity
 com.amazon.mShop.android.shopping/com.amazon.mShop.kiang.DeviceRegistrationReceiver
-com.android.vending.billing.InAppBillingService.CLON/com.google.android.finsky.billing.iab.InAppBillingFService
-com.android.vending.billing.InAppBillingService.CLON/com.google.android.finsky.services.LicensingService
+com.android.vending.billing.InAppBillingService.COIN/com.google.android.finsky.billing.iab.InAppBillingFService
+com.android.vending.billing.InAppBillingService.COIN/com.google.android.finsky.services.LicensingService
 com.android.vending/com.google.android.finsky.activities.DebugActivity
 com.android.vending/com.google.android.finsky.billing.setupwizard.SetupWizardPaymentsAccountChangeBroadcastReceiver
 com.android.vending/com.google.android.finsky.billing.setupwizard.SetupWizardPaymentsEnablementService
@@ -142,6 +142,7 @@ com.cainiao.wireless/org.android.agoo.xiaomi.MiPushBroadcastReceiver
 com.calazova.club.guangzhu/cn.jpush.android.service.AlarmReceiver
 com.calazova.club.guangzhu/cn.jpush.android.service.PushReceiver
 com.chinamworld.main/com.ccb.android.yxpush.mif.BootBroadcastReceiver
+com.ciji.jjk/com.xiaomi.push.service.XMPushService
 com.ciji.jjk/com.xiaomi.push.service.receivers.PingReceiver
 com.ciji.jjk/io.rong.push.platform.MiMessageReceiver
 com.cmbchina.ccd.pluto.cmbActivity/com.igexin.sdk.PushReceiver
@@ -328,9 +329,11 @@ com.greenpoint.android.mc10086.activity/com.xiaomi.push.service.XMPushService
 com.handsgo.jiakao.android/cn.mucang.android.push.AliPushMessageReceiver
 com.handsgo.jiakao.android/cn.mucang.android.push.MucangPushReceiver
 com.handsgo.jiakao.android/cn.mucang.android.push.MucangPushReceiver
+com.handsgo.jiakao.android/com.xiaomi.push.service.XMPushService
 com.handsgo.jiakao.android/com.xiaomi.push.service.receivers.PingReceiver
 com.handsgo.jiakao.android/io.rong.push.PushReceiver
 com.heartide.xinchao.stressandroid/com.heartide.xinchao.stressandroid.receiver.MiPushMessageReceiver
+com.heartide.xinchao.stressandroid/com.xiaomi.push.service.XMPushService
 com.heartide.xinchao.stressandroid/com.xiaomi.push.service.receivers.PingReceiver
 com.hebao.app/com.xiaomi.push.service.XMPushService
 com.hellotalk/com.tencent.android.tpush.XGPushReceiver
@@ -364,6 +367,7 @@ com.jianshu.haruki/com.xiaomi.push.service.receivers.PingReceiver
 com.jiongji.andriod.card/com.baicizhan.client.business.stats.StatInvokeReceiver
 com.jiuxianapk.ui/com.igexin.sdk.PushReceiver
 com.job.android/com.job.android.business.xiaomipush.XiaoMiMessageReceiver
+com.job.android/com.xiaomi.push.service.XMPushService
 com.job.android/com.xiaomi.push.service.receivers.PingReceiver
 com.kaistart.android/com.igexin.sdk.PushReceiver
 com.kingsoft/com.igexin.sdk.PushReceiver
@@ -460,6 +464,7 @@ com.sdu.didi.psnger/com.igexin.sdk.PushService
 com.sdu.didi.psnger/com.xiaomi.push.service.XMPushService
 com.sdu.didi.psnger/com.xiaomi.push.service.receivers.PingReceiver
 com.shanbay.words/com.shanbay.words.push.MiPushBroadcastReceiver
+com.shanbay.words/com.xiaomi.push.service.XMPushService
 com.shanbay.words/com.xiaomi.push.service.receivers.PingReceiver
 com.shouzhang.com/com.shouzhang.com.common.receiver.AppReceiver
 com.shouzhang.com/com.taobao.accs.EventReceiver
@@ -647,6 +652,7 @@ com.tencent.weread/com.tencent.weread.push.huawei.HWPushReceiver
 com.tencent.weread/com.tencent.weread.push.syncadapter.WRAuthenticatorService
 com.tencent.weread/com.tencent.weread.push.syncadapter.WRSyncService
 com.tencent.weread/com.tencent.weread.receiver.SmartisanReceiver
+com.tencent.weread/com.xiaomi.push.service.XMPushService
 com.tumblr/com.htc.blinkfeed.service.BlinkFeedPluginService
 com.umetrip.android.msky.app/com.huawei.android.pushagent.PushEventReceiver
 com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.flightsubscribe.HuaweiAttentionReceiver
@@ -673,6 +679,7 @@ com.wandoujia.phoenix2/com.taobao.accs.EventReceiver
 com.wandoujia.phoenix2/com.wandoujia.jupiter.floatwindow.KeepLiveReceiver
 com.wuba/com.wuba.push.NotificationReceiver
 com.wuba/com.wuba.push.PhoneStateReceiver
+com.wuba/com.xiaomi.push.service.XMPushService
 com.wuba/com.xiaomi.push.service.receivers.NetworkStatusReceiver
 com.wuba/com.xiaomi.push.service.receivers.PingReceiver
 com.xda.labs/com.xda.labs.CopyTextActivity
@@ -765,10 +772,15 @@ jp.naver.line.android/jp.naver.line.android.service.share.DirectShareChatChooser
 net.luoo.LuooFM/cn.jpush.android.service.PushReceiver
 net.mx17.overridedns/net.mx17.overridedns.NetworkStateReceiver
 one.hh.oneclient/com.igexin.sdk.PushService
+org.blackmart.market/com.appnext.core.AdsService
 org.coursera.android/org.coursera.core.legacy.network.CourkitNetworkObservable
 org.fdroid.fdroid/org.fdroid.fdroid.receiver.WifiStateChangeReceiver
 org.geekbang.geekTime/org.android.agoo.huawei.HuaWeiReceiver
 org.geekbang.geekTime/org.android.agoo.xiaomi.MiPushBroadcastReceiver
+org.tasks/org.tasks.dashclock.DashClockExtension
+org.tasks/org.tasks.gtasks.GoogleTaskSyncService
+org.tasks/org.tasks.location.GeofenceTransitionsIntentService
+org.tasks/org.tasks.scheduling.GeofenceSchedulingIntentService
 org.wordpress.android/org.wordpress.android.networking.ConnectionChangeReceiver
 tv.danmaku.bili/com.bilibili.lib.push.HuaweiMessageReceiver
 tv.danmaku.bili/com.bilibili.lib.push.MiMessageReceiver
