@@ -1,6 +1,0 @@
-com.android.camera/com.android.camera.CameraButtonIntentReceiver
-com.android.camera/com.android.camera.storage.PriorityStorageBroadcastReceiver
-com.android.camera/com.android.camera.snap.SnapKeyReceiver
-com.android.camera/com.android.camera.PreloadReceiver
-com.android.camera/com.android.camera.EmptyService
-com.android.camera/com.android.camera.snap.SnapService
